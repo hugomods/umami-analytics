@@ -1,0 +1,18 @@
+[module.hugoVersion]
+min = "0.111.3"
+# extended = true
+
+#[[module.imports]]
+#path = ""
+
+#[params.hugopress.modules.____.attributes.document]
+
+#[params.hugopress.modules.____.attributes.body]
+
+#[params.hugopress.modules.____.hooks.head-begin]
+
+#[params.hugopress.modules.____.hooks.head-end]
+
+#[params.hugopress.modules.____.hooks.body-begin]
+
+#[params.hugopress.modules.____.hooks.body-end]

@@ -1,0 +1,3 @@
+[params.hugopress.modules.umami.hooks.head-end]
+cacheable = true
+cache_param_key = "analyze"

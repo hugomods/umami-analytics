@@ -1,3 +1,1 @@
-{{- if default true .Page.Params.analyze }}
-  {{ partialCached "hugomods/umami/assets/js" . }}
-{{- end }}
+{{ partialCached "hugomods/umami/index" .Page .Page.Params.analyze }}

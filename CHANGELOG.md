@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.3.0](https://github.com/hugomods/umami-analytics/compare/v0.2.0...v0.3.0) (2024-10-13)
+
+
+### Features ✨
+
+* add the `script_url` parameter ([d281535](https://github.com/hugomods/umami-analytics/commit/d281535721752243a71e957f4d4fe1a601bcf968))
+* rename umami to umami-analytics ([d16d5ea](https://github.com/hugomods/umami-analytics/commit/d16d5ea7c7a44fa0f41f4c1261c700f2271b4b51))
+
 ## [0.2.0](https://github.com/hugomods/umami/compare/v0.1.0...v0.2.0) (2024-10-11)
 
 

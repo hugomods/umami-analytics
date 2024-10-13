@@ -1,7 +1,7 @@
 {{- with site.Params.services.umami.id }}
   <script
     defer
-    src="{{ site.Params.services.umami.script_url }}"
+    src="{{ site.Params.services.umami_analytics.script_url }}"
     data-website-id="{{ . }}">
   </script>
 {{- end }}

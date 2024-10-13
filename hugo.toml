@@ -1,6 +1,6 @@
-[params.hugopress.modules.umami.hooks.head-end]
+[params.hugopress.modules.umami-analytics.hooks.head-end]
 cacheable = true
 cache_param_key = "analyze"
 
-[params.services.umami]
+[params.services.umami_analytics]
 script_url = "https://cloud.umami.is/script.js"

@@ -1,3 +1,7 @@
 {{- with site.Params.services.umami.id }}
-  <script defer src="https://cloud.umami.is/script.js" data-website-id="{{ . }}"></script>
+  <script
+    defer
+    src="{{ site.Params.services.umami.script_url }}"
+    data-website-id="{{ . }}">
+  </script>
 {{- end }}

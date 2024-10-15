@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.1](https://github.com/hugomods/umami-analytics/compare/v0.3.0...v0.3.1) (2024-10-15)
+
+
+### Bug Fixes 🐞
+
+* website ID ([9ae0eab](https://github.com/hugomods/umami-analytics/commit/9ae0eab132c00ca59a160e5952979b8958072c84))
+
 ## [0.3.0](https://github.com/hugomods/umami-analytics/compare/v0.2.0...v0.3.0) (2024-10-13)
 
 
